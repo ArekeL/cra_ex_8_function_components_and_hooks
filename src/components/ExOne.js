@@ -21,7 +21,7 @@ const ExOne = (props) => {
 				<h4>Shopping list - sfc + hooks (state)</h4>
 				<ul>
 					<ItemList name={items.item1} example={1 + "kg"} />
-					<ItemList name={items.item2} example={2} />
+					<ItemList name={items.item2} example={1} />
 					<ItemList name={items.item3} example={4 + "kg"} />
 				</ul>
 			</div>
