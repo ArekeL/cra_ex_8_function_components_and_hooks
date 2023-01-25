@@ -3,9 +3,9 @@ import "./App.css";
 
 const ExOne = (props) => {
 	const [items] = React.useState({
-		item1: "Marchewka",
-		item2: "Woda",
-		item3: "Ziemniak",
+		item1: "Carrot",
+		item2: "Water",
+		item3: "Potato",
 	});
 
 	const ItemList = ({ name, example }) => (
