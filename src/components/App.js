@@ -2,6 +2,7 @@ import React from "react";
 import "./App.css";
 import ExOne from "./ExOne.js";
 import ExTwo from "./ExTwo.js";
+import ExThree from "./ExThree";
 
 function App() {
 	return (
@@ -12,6 +13,7 @@ function App() {
 			</header>
 			<ExOne />
 			<ExTwo />
+			<ExThree />
 		</div>
 	);
 }
