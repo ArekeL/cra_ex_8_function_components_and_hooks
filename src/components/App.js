@@ -3,6 +3,7 @@ import "./App.css";
 import ExOne from "./ExOne.js";
 import ExTwo from "./ExTwo.js";
 import ExThree from "./ExThree";
+import ExFour from "./ExFour";
 
 function App() {
 	return (
@@ -14,6 +15,7 @@ function App() {
 			<ExOne />
 			<ExTwo />
 			<ExThree />
+			<ExFour />
 		</div>
 	);
 }
